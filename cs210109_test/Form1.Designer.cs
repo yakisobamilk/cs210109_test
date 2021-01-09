@@ -34,11 +34,11 @@ namespace cs210109_test
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 57);
+            this.button1.Location = new System.Drawing.Point(24, 61);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(134, 45);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "ボタン";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
